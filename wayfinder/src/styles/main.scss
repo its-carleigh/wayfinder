@@ -1,0 +1,11 @@
+* {
+    margin: 0 auto;
+
+    font-size: 14px;
+
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+
+    @import '../../node_modules/vuetify/src/styles/main';
+}
